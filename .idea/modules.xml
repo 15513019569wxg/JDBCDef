@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JDBCDef.iml" filepath="$PROJECT_DIR$/JDBCDef.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc_datasource/jdbc_datasource.iml" filepath="$PROJECT_DIR$/jdbc_datasource/jdbc_datasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc_datasource_new/jdbc_datasource_new.iml" filepath="$PROJECT_DIR$/jdbc_datasource_new/jdbc_datasource_new.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc_transaction/jdbc_transaction.iml" filepath="$PROJECT_DIR$/jdbc_transaction/jdbc_transaction.iml" />
+    </modules>
+  </component>
+</project>
